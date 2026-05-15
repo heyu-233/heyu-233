@@ -41,21 +41,15 @@ I build embedded systems and AI tooling with a soft spot for Linux internals, pr
 - [embedded-agent](https://github.com/heyu-233/embedded-agent): an AI agent focused on the end-to-end embedded development workflow
 - [learning-workflow-designer](https://github.com/heyu-233/learning-workflow-designer): a workflow for turning large projects into guided, repeatable learning paths
 
-## Embedded Projects
-
-- **IoT Campus Security System**: built a full edge-to-device pipeline on i.MX6ULL with U-Boot, Linux kernel/rootfs bring-up, OV5640 camera capture, MQTT messaging, and YOLOv8-based event detection
-- **STM32 Two-Wheeled Self-Balancing Car**: led a FreeRTOS-based multi-task control system with PID loops, sensor fusion, UART/I2C/GPIO peripheral integration, and live OLED parameter tuning
-- **Wearable Device Internship Work**: contributed to embedded software validation, MQTT communication stability, Bluetooth gateway joint debugging, and low-power tuning for smart-band products
-
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heyu-233&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyu-233&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyu-233&theme=github" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyu-233&theme=github" alt="Top languages" />
 </p>
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=heyu-233&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=heyu-233&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Currently Exploring
