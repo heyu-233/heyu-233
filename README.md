@@ -49,7 +49,7 @@ I build embedded systems and AI tooling with a soft spot for Linux internals, pr
 </p>
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=heyu-233&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyu-233&theme=github" alt="GitHub contribution summary" />
 </p>
 
 ## Currently Exploring
