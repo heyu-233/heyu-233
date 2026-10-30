@@ -4,7 +4,7 @@
   <a href="https://github.com/heyu-233">
     <img src="https://img.shields.io/badge/GitHub-heyu--233-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-  <img src="https://img.shields.io/badge/School-BUPT-1F6FEB?style=for-the-badge" alt="BUPT Badge" />
+  <img src="https://img.shields.io/badge/School-Beijing%20University%20of%20Posts%20and%20Telecommunications-1F6FEB?style=for-the-badge" alt="BUPT Badge" />
   <img src="https://komarev.com/ghpvc/?username=heyu-233&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
@@ -12,7 +12,7 @@ I build embedded systems and AI tooling with a soft spot for Linux internals, pr
 
 ## About Me
 
-- BUPT alumnus, currently studying in Hong Kong
+- Beijing University of Posts and Telecommunications alumnus, currently studying in Hong Kong
 - Interested in embedded Linux, AI agents, device bring-up, and research tooling
 - Building systems that connect real hardware, developer workflows, and practical AI
 
