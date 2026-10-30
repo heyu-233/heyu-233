@@ -1,11 +1,10 @@
-# Hi there, I'm Heyu Ren
+# Hi there, I'm SagaMaomao
 
 <p>
   <a href="https://github.com/heyu-233">
     <img src="https://img.shields.io/badge/GitHub-heyu--233-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-  <img src="https://img.shields.io/badge/BUPT-Beijing%20University%20of%20Posts%20and%20Telecommunications-1F6FEB?style=for-the-badge" alt="BUPT Badge" />
-  <img src="https://img.shields.io/badge/Location-Beijing-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/School-BUPT-1F6FEB?style=for-the-badge" alt="BUPT Badge" />
   <img src="https://komarev.com/ghpvc/?username=heyu-233&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
@@ -13,8 +12,7 @@ I build embedded systems and AI tooling with a soft spot for Linux internals, pr
 
 ## About Me
 
-- Studying at Beijing University of Posts and Telecommunications
-- Incoming master's student in Electronic and Information Engineering at The Hong Kong Polytechnic University
+- BUPT alumnus, currently studying in Hong Kong
 - Interested in embedded Linux, AI agents, device bring-up, and research tooling
 - Building systems that connect real hardware, developer workflows, and practical AI
 
@@ -57,14 +55,3 @@ I build embedded systems and AI tooling with a soft spot for Linux internals, pr
 - AI agents for real engineering workflows
 - Embedded Linux development and tooling
 - Better ways to package learning into repeatable systems
-
-## Contact
-
-<p>
-  <a href="mailto:18811251902@163.com">
-    <img src="https://img.shields.io/badge/Email-18811251902%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/heyu-233">
-    <img src="https://img.shields.io/badge/GitHub-heyu--233-181717?style=for-the-badge&logo=github" alt="GitHub Contact" />
-  </a>
-</p>
